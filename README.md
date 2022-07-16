@@ -1,6 +1,5 @@
 
-
-###How to execute tests changing only one parameter
+### How to execute tests changing only one parameter
 
 Please open terminal and execute following command:
 
