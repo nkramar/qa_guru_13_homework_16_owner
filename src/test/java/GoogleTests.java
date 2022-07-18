@@ -10,7 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class GoogleTests extends TestBase {
   @Test
   @DisplayName("Check page title")
-  public void GoogleTitleTest() {
+  public void googleTitleTest() {
     assertThat(title()).contains("Google");
   }
 
